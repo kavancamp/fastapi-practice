@@ -1,0 +1,2 @@
+# fastapi-practice
+ python-postgressql
